@@ -1,0 +1,1 @@
+later on add link with https://track.toggl.com/timer to use their api to be able to get your time spent. reference https://engineering.toggl.com/docs/
